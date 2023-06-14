@@ -449,7 +449,8 @@ iframe {
 
 .contact {
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-        url("/src/bg.jpg");
+        url("../src/bg.jpg");
+
     background-size: cover;
     background-color: var(--DarkBlue);
     color: #fff;
